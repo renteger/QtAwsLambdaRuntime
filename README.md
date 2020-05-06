@@ -1,2 +1,2 @@
-# QtAwsLambdaRuntime
-An open-source runtime for AWS lambda in C++ using Qt.
+# qtaws
+An open-source AWS API implementation in C++ using Qt.
